@@ -100,3 +100,9 @@ else
     " Folds
     hi Folded ctermfg=222 guifg=#FBD485 ctermbg=234 guibg=#1c1c1c cterm=none gui=none
 endif
+
+hi Title ctermfg=255 guifg=#FFFFFF ctermbg=232 guibg=#060606 cterm=none gui=none
+hi Directory ctermfg=250 guifg=#999999 ctermbg=232 guibg=#060606 cterm=none gui=none
+hi NERDTreeOpenable ctermfg=250 guifg=#999999 ctermbg=232 guibg=#060606 cterm=none gui=none
+hi NERDTreeClosable ctermfg=255 guifg=#FFFFFF ctermbg=232 guibg=#060606 cterm=none gui=none
+hi treedir ctermfg=255 guifg=#FFFFFF ctermbg=232 guibg=#060606 cterm=none gui=none
